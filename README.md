@@ -1,0 +1,2 @@
+# statusADMIN
+status/adm/user
